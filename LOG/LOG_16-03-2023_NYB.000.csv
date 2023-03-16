@@ -1,0 +1,8 @@
+16/03/2023,12:16:47,,Invoke QA_007.002 workflow: Read Range,Failed,System exception. Retry: 1. The sheet Insumos does not exist in workbook C:\Users\ChinoISC\Downloads\FinalQAGit\PracticaQAFinal-main\Data\Hoja de recursos.xlsxHoja de recursos.xlsx. at Source: Invoke QA_007.002 workflow: Read Range
+16/03/2023,01:58:55,,Obtencion\ValidarNoProcesados.xaml - Invoke Workflow File,Failed,"System exception. Retry: 1. The values provided for the root activity's arguments did not satisfy the root activity's requirements:
+'DynamicActivity': The following keys from the input dictionary do not map to arguments and must be removed: out_IdUsuario, out_Nombre, out_ApellidoPaterno, out_ApellidoMaterno, dt_NoProcesadosDes.  Please note that argument names are case sensitive.
+Parameter name: rootArgumentValues at Source: Obtencion\ValidarNoProcesados.xaml - Invoke Workflow File"
+16/03/2023,02:03:09,,Obtencion\ValidarNoProcesados.xaml - Invoke Workflow File,Failed,"System exception. Retry: 1. The values provided for the root activity's arguments did not satisfy the root activity's requirements:
+'DynamicActivity': The following keys from the input dictionary do not map to arguments and must be removed: out_IdUsuario, out_Nombre, out_ApellidoPaterno, out_ApellidoMaterno, dt_NoProcesadosDes.  Please note that argument names are case sensitive.
+Parameter name: rootArgumentValues at Source: Obtencion\ValidarNoProcesados.xaml - Invoke Workflow File"
+16/03/2023,02:10:51,,Obtencion\Enviar_Correos.xaml - Invoke Workflow File: Enviar correo electrónico,Failed,"System exception. Retry: 1. File or Folder ""C:\Users\ChinoISC\Downloads\NoProcesado.xlsx"" does not exists. at Source: Obtencion\Enviar_Correos.xaml - Invoke Workflow File: Enviar correo electrónico"
